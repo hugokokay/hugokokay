@@ -6,6 +6,14 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
+<p align="left">Minhas habilidades:</p>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
@@ -36,6 +44,10 @@
 
 ###
 
+<p align="left">Meus contatos:</p>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/hugo-kokay-7891238/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -48,4 +60,5 @@
   </a>
 </div>
 
+###
 ###
